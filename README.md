@@ -1,4 +1,4 @@
-![Cat The Frog programando en su habitación](https://img.freepik.com/fotos-premium/gato-divertido-gafas-sol-trabajando-computadora-portatil-noche-hacker-capucha-tema-oscuro-ai-generado_994411-40.jpg).
+![Cat The Frog programando en su habitación](https://img.freepik.com/fotos-premium/gato-divertido-gafas-sol-trabajando-computadora-portatil-noche-hacker-capucha-tema-oscuro-ai-generado_994411-4.jpg).
 
 ### Hi there 👋
 
