@@ -1,4 +1,4 @@
-![Cat The Frog programando en su habitación](https://ih1.redbubble.net/image.4883915068.1832/raf,360x360,075,t,fafafa:ca443f4786.jpg)
+![Cat The Frog programando en su habitación]([https://ih1.redbubble.net/image.4883915068.1832/raf,360x360,075,t,fafafa:ca443f4786.jpg](https://img.freepik.com/fotos-premium/gato-divertido-gafas-sol-trabajando-computadora-portatil-noche-hacker-capucha-tema-oscuro-ai-generado_994411-4.jpg?w=740))
 
 ### Hi there 👋
 
