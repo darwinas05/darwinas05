@@ -1,4 +1,5 @@
-![Cat The Frog programando en su habitación](https://pin.it/2Dkh2CghO)
+![Cat The Frog programando en su habitación](/storage/emulated/0/DCIM/100PINT/Pines/39a034c31ae67dc4c39387eefbebc6b2.jpg
+)
 
 ### Hi there 👋
 
