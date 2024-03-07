@@ -1,4 +1,4 @@
-![Cat The Frog programando en su habitación](<blockquote class="imgur-embed-pub" lang="en" data-id="a/BRWrfsl" data-context="false" ><a href="//imgur.com/a/BRWrfsl"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+![Cat The Frog programando en su habitación](https://ih1.redbubble.net/image.4883915068.1832/raf,360x360,075,t,fafafa:ca443f4786.jpg)
 
 ### Hi there 👋
 
