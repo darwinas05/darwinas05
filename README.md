@@ -1,4 +1,4 @@
-![Kermit The Frog programando en la galaxia](https://i.imgur.com/gOmSTjv.png)
+![Cat The Frog programando en su habitación](https://pin.it/2Dkh2CghO.png)
 
 ### Hi there 👋
 
