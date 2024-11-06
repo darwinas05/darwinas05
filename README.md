@@ -2,6 +2,8 @@
 <h1>Wellcome to my profile of GitHub</h1>
 
 ### 🔨 Tools I Use
+[![My Skills](https://skillicons.dev/icons?i=mysql,nginx,git,github,githubactions)](https://skillicons.dev)
+### 🔨 Tools I Use
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,rabbitmq,docker,kubernetes,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,cmake,anaconda,github,grafana,githubactions,jenkins,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
 
 
