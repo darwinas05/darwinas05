@@ -1,5 +1,4 @@
 
-<h1>Wellcome to my profile of GitHub</h1>
 
 ### ⛏ Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,php,java)](https://skillicons.dev)
