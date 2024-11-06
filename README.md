@@ -1,7 +1,9 @@
 
 <h1>Wellcome to my profile of GitHub</h1>
 
-![Cat The Frog programando en su habitación](https://img.freepik.com/fotos-premium/gato-divertido-gafas-sol-trabajando-computadora-portatil-noche-hacker-capucha-tema-oscuro-ai-generado_994411-4.jpg).
+### 🔨 Tools I Use
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,redis,postgresql,rabbitmq,docker,kubernetes,nginx,git,npm,pnpm,yarn,vite,vitest,webpack,babel,cmake,anaconda,github,grafana,githubactions,jenkins,figma,aws,azure,gcp,cloudflare,vercel,netlify,heroku)](https://skillicons.dev)
+
 
 ### Hi there 👋
 <!--
