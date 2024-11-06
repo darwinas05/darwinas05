@@ -2,7 +2,7 @@
 <h1>Wellcome to my profile of GitHub</h1>
 
 ### Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,php,java)](https://skillicons.dev)
 
 ### 🔨 Tools I Use
 [![My Skills](https://skillicons.dev/icons?i=mysql,nginx,git,github,githubactions)](https://skillicons.dev)
