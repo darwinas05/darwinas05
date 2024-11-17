@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,php,java)](https://skillicons.dev)
 
 ### 🔨 Tools I Use
-[![My Skills](https://skillicons.dev/icons?i=mysql,nginx,git,github,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,git,github)](https://skillicons.dev)
 
 ### Hi there 👋
 <!--
