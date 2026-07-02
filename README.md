@@ -1,6 +1,6 @@
 
 
-**About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996" align="center" alt="visitors">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
 
 ### ⛏ Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,php,java,unity)](https://skillicons.dev)
